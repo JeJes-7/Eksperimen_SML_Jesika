@@ -22,7 +22,7 @@ jobs:
 
     - name: Run preprocessing script
       run: |
-        python preprocessing/automate_Jesika.py
+        python preprocessing/automate_jesika.py
 
     - name: Commit and Push processed data
       run: |
